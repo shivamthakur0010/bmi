@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bmi/static/css/main.fce36487.chunk.css",
+    "main.js": "/bmi/static/js/main.1c1c898b.chunk.js",
+    "main.js.map": "/bmi/static/js/main.1c1c898b.chunk.js.map",
+    "runtime~main.js": "/bmi/static/js/runtime~main.d6c113cc.js",
+    "runtime~main.js.map": "/bmi/static/js/runtime~main.d6c113cc.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/bmi/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.ce518bbc.chunk.js": "/bmi/static/js/2.ce518bbc.chunk.js",
+    "static/js/2.ce518bbc.chunk.js.map": "/bmi/static/js/2.ce518bbc.chunk.js.map",
+    "index.html": "/bmi/index.html",
+    "precache-manifest.7cc8436b2bd795793ae717418ae7e7d3.js": "/bmi/precache-manifest.7cc8436b2bd795793ae717418ae7e7d3.js",
+    "service-worker.js": "/bmi/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/bmi/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.fce36487.chunk.css.map": "/bmi/static/css/main.fce36487.chunk.css.map"
+  }
+}
